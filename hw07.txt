@@ -1,3 +1,4 @@
+HELLO THERE
 here is the data withheld in the hw07.txt file
 here is another line to adhere to the directions of the assignment
 and yet another line just make sure I have several lines
